@@ -7,6 +7,7 @@ Games are a fun way to spend your time. They can be relaxing or exciting, even e
 - [Game Canvas](https://www.w3schools.com/graphics/game_canvas.asp): Learn to use the HTML Canvas. It is great playing surface for games, but can be used for so much more. What can you do with it?
 - [HTML Game Tutorial](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/games/default.asp.html#gsc.tab=0) from W3 Schools. Learn the basics of making your own games.
 - [Game Development Tutorials](https://developer.mozilla.org/en-US/docs/Games/Tutorials) by MDN Web Docs. This page contains multiple tutorial series that highlight different workflows for effectively creating different types of web games.
+- [How to build a game with HTML, CSS, and JavaScript](https://blog.logrocket.com/build-a-game-with-html-css-javascript/): Tutorial for building a 2D jump game. Play the [jump game](jump.html).
 
 
 ## Game collections
