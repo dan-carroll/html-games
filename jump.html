@@ -16,7 +16,7 @@
             height: 50px;
             background-color: red;
             position: relative;
-            top: 150px; //game height - character height (200 - 50)
+            top: 150px; /*//game height - character height (200 - 50)*/
         }
 
         @keyframes jump{
@@ -41,7 +41,7 @@
         }
 
         @keyframes block{
-            0%{left: 500px} 
+            0%{left: 50px} 
             100%{left: -20px}
         }
 
@@ -53,14 +53,17 @@
         <div id="character"></div>
         <div id="block"></div>
     </div>
+
 <script>
     var character = document.getElementById("character");
     document.addEventListener("click",jump);
+
     function jump(){
         if(character.classList == "animate"){return;}
         character.classList.add("animate");
         setTimeout(removeJump,300); //300ms = length of animation
     };
+
     function removeJump(){
         character.classList.remove("animate");
     }
