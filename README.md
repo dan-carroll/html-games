@@ -8,6 +8,9 @@ Games are a fun way to spend your time. They can be relaxing or exciting, even e
 - [HTML Game Tutorial](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/games/default.asp.html#gsc.tab=0) from W3 Schools. Learn the basics of making your own games.
 - [Game Development Tutorials](https://developer.mozilla.org/en-US/docs/Games/Tutorials) by MDN Web Docs. This page contains multiple tutorial series that highlight different workflows for effectively creating different types of web games.
 - [How to build a game with HTML, CSS, and JavaScript](https://blog.logrocket.com/build-a-game-with-html-css-javascript/): Tutorial for building a 2D jump game. Watch the video in the tutorial and follow the link for the code. Slightly different code from what is in the tutorial. Play the [jump game](jump.html).
+- [JavaScript and HTML snake game tutorial](https://learningdaily.dev/javascript-and-html-snake-game-tutorial-build-a-simple-interactive-game-d9549bca1a71): Build a simple, interactive game (ToDo)
+- [How to Create A Snake Game in HTML CSS & JavaScript](https://www.codingnepalweb.com/create-snake-game-htm-css-javascript/): Is this the same tutorial as the one above? (ToDo)
+- [How to Create A Snake Game in HTML CSS & JavaScript](https://www.geeksforgeeks.org/design-hit-the-mouse-game-using-html-css-and-vanilla-javascript/): (ToDo)
 
 
 ## Game collections
