@@ -1,7 +1,7 @@
-# html-games
+# HTML Games (with JavaScript)
 Games are a fun way to spend your time. They can be relaxing or exciting, even educational. Some are quite challenging and can be great problem-solving mental exercises. So, however you enjoy your games, creating and playing your own creations can be a great way to learn programming techniques.
 
-## A good way to "play" with some HTML and possibly enhance your (my) skill set.
+## A good way to "play" with some HTML JavaScript, and possibly enhance your (my) skill set.
 
 - A simple [HTML Game Example](https://www.w3schools.com/graphics/game_intro.asp) from [W3 Schools](https://www.w3schools.com/default.asp).
 - [Game Canvas](https://www.w3schools.com/graphics/game_canvas.asp): Learn to use the HTML Canvas. It is great playing surface for games, but can be used for so much more. What can you do with it?
@@ -21,4 +21,7 @@ A great way to stoke your imagination for creating games is to explore the games
 - [HTML5 Games](https://html5-games.io/)
 - [HTML Games](https://www.htmlgames.com/)
 - [HTML Games Unblocked](https://sites.google.com/view/html5gamesunblocked)
+
+## My Games (with code)
+
 
