@@ -9,8 +9,7 @@
 title: HTML Games
 description: > # this means to ignore newlines until "baseurl:"
   A collection of games that can be played in the browser. Plus tutorials, how-tos, and examples of games with code.
-canonical_url: "https://dan-carroll.github.io"
-baseurl: "html-games" # the subpath of your site, e.g. /blog
+baseurl: "/html-games" # the subpath of your site, e.g. /blog
 url: "https://dan-carroll.github.io" # the base hostname & protocol for your site
 
 author:
