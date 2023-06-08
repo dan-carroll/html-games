@@ -6,12 +6,21 @@ author: Dan Carroll
 description: Hello GitHub page
 ---
 
+<style>
+  img {
+    margin: 0 auto;
+    width: 50%;
+  }
+</style>
+
 <h1 class="display-1 fw-bold">Hello</h1>
-<img class="img-fluid mx-auto" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%">
+<img class="img-fluid" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo">
 <h1 id="name" class="display-1 fw-bold text-end">Friends</h1>
 
 <p class="text-center">
-    <u class="pe-2">Click the GitHub Image Above</u>
+    Click the GitHub Image Above
+</p>
+<p class="text-center">
     <button>Change user</button>
 </p>
 <p>
@@ -25,8 +34,12 @@ description: Hello GitHub page
     const mySrc = myImage.getAttribute("src");
     if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
+        myImage.setAttribute("class", "img-fluid");
+        myImage.setAttribute("alt", "github mark");
     } else {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
+        myImage.setAttribute("class", "img-fluid");
+        myImage.setAttribute("alt", "github logo");
     }
     };
 
