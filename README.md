@@ -24,4 +24,4 @@ A great way to stoke your imagination for creating games is to explore the games
 
 ## My Games (with code)
 
-- [Hello](hello.html)
+- [Hello](hello.md)
