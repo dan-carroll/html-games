@@ -8,8 +8,8 @@ description: Hello GitHub page
 
 <h1 class="display-1 fw-bold">Hello</h1>
 <figure class="figure">
-  <img class="img-fluid" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo">
-  <figcaption class="figure-caption fw-bold ">Click Image Above</figcaption>
+  <img class="img-fluid figure-img mx-auto" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo">
+  <figcaption class="figure-caption fw-bold text-center">Click Image Above</figcaption>
 </figure>
 <h1 class="display-1 fw-bold text-end">Friends</h1>
 
