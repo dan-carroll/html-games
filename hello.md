@@ -7,13 +7,11 @@ description: Hello GitHub page
 ---
 
 <h1 class="display-1 fw-bold">Hello</h1>
-<figure class="figure">
-  <img class="img-fluid figure-img mx-auto" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%">
-  <figcaption class="figure-caption fw-bold text-center">Click Image Above</figcaption>
-</figure>
+<img class="img-fluid figure-img mx-auto" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%">
 <h1 id="name" class="display-1 fw-bold text-end">Friends</h1>
 
 <p class="text-center">
+    <u class="pe-2">Click the GitHub Image Above</u>
     <button>Change user</button>
 </p>
 <p>
