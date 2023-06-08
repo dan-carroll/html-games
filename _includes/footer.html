@@ -2,7 +2,7 @@
     <p>
         <a class="text-decoration-none" href="#top">Back to top</a>
     </p>
-    <p>Copyright &#169;2023 by Dan Carroll</p>
+    <p>Copyright &#169;2023 by {% if page.author %}{{ page.author | escape }}{% else %}{{ site.author.name | escape }}{% endif %}</p>
 </footer>
 
 <!-- JavaScript files -->
