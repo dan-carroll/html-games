@@ -16,5 +16,15 @@ description: Hello GitHub page
 </p>
 
 <script>
+    const myImage = document.querySelector("img");
+
+    myImage.onclick = () => {
+    const mySrc = myImage.getAttribute("src");
+    if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
+        myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
+    } else {
+        myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
+    }
+    };
 
 </script>
