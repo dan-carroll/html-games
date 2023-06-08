@@ -7,7 +7,7 @@ description: Hello GitHub page
 ---
 
 <h1 class="display-1 fw-bold">Hello</h1>
-<img class="img-fluid figure-img mx-auto" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%">
+<img class="img-fluid mx-auto" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%">
 <h1 id="name" class="display-1 fw-bold text-end">Friends</h1>
 
 <p class="text-center">
