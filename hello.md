@@ -7,7 +7,7 @@ description: Hello GitHub page
 ---
 
 <h1 class="display-1 fw-bold">Hello</h1>
-<p class="text-center"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%"></p>
+<p class="text-center"><img src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%"></p>
 <h1 id="name" class="display-1 fw-bold text-end">Friends</h1>
 
 <p class="text-center">
@@ -27,12 +27,10 @@ description: Hello GitHub page
     const mySrc = myImage.getAttribute("src");
     if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
-        myImage.setAttribute("class", "img-fluid");
         myImage.setAttribute("alt", "github mark");
         myImage.setAttribute("width", "50%");
     } else {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
-        myImage.setAttribute("class", "img-fluid");
         myImage.setAttribute("alt", "github logo");
         myImage.setAttribute("width", "50%");
     }
