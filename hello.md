@@ -8,6 +8,7 @@ description: Hello GitHub page
 
 <h1 class="display-1 fw-bold">Hello</h1>
 <img class="img-fluid" src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo">
+<h6 class="text-center">Click Image Above</h6>
 <h1 class="display-1 fw-bold text-end">Friends</h1>
 
 
