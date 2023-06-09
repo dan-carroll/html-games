@@ -41,8 +41,12 @@ description: Hello GitHub page
 
     function setUserName() {
     const myName = prompt("Please enter your name.");
-    localStorage.setItem("name", myName);
-    myHeading.textContent = `${myName}`;
+    if (!myName) {
+        setUserName();
+    } else {
+        localStorage.setItem("name", myName);
+        myHeading.textContent = `${myName}`;
+    }
     }
 
     if (!localStorage.getItem("name")) {
