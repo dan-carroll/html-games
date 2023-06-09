@@ -4,7 +4,7 @@
 // script for use with the "hello" page
 
 let myImage = document.querySelector("img");
-let myButton = document.querySelector("button");
+let myButton = document.getElementById("setName");
 let myHeading = document.getElementById("whoIsIt");
 
 myImage.onclick = function() {
