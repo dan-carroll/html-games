@@ -1,3 +1,6 @@
+---
+---
+
 // script for use with the "hello" page
 
 const myImage = document.querySelector("img");
