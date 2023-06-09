@@ -8,7 +8,7 @@ description: Hello GitHub page
 
 <h1 class="display-1 fw-bold">Hello</h1>
 <p class="text-center"><img src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%"></p>
-<h1 id="name" class="display-1 fw-bold text-end">Friends</h1>
+<h1 id="whoIsIt" class="display-1 fw-bold text-end">Friends</h1>
 
 <p class="text-center">
     Click the GitHub Image Above
@@ -37,7 +37,7 @@ description: Hello GitHub page
     };
 
     let myButton = document.querySelector("button");
-    let myHeading = document.getElementById("name");
+    let myHeading = document.getElementById("whoIsIt");
 
     function setUserName() {
     const myName = prompt("Please enter your name.");
