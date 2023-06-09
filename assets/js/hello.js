@@ -4,6 +4,8 @@
 // script for use with the "hello" page
 
 let myImage = document.querySelector("img");
+let myButton = document.querySelector("button");
+let myHeading = document.getElementById("whoIsIt");
 
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute("src");
@@ -17,9 +19,6 @@ myImage.onclick = function() {
         myImage.style.width = "50%";
     }
 }
-
-let myButton = document.querySelector("button");
-let myHeading = document.getElementById("whoIsIt");
 
 function setUserName() {
     let myName = prompt("Please enter your name.");
