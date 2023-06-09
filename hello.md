@@ -7,7 +7,7 @@ description: Hello GitHub page
 ---
 
 <h1 class="display-1 fw-bold">Hello</h1>
-<p class="text-center"><img src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo"></p>
+<p class="text-center"><img src="{{ site.baseurl }}/assets/images/GitHub_Logo.png" alt="GitHub logo" width="50%"></p>
 <h1 id="name" class="display-1 fw-bold text-end">Friends</h1>
 
 <p class="text-center">
@@ -28,7 +28,7 @@ description: Hello GitHub page
     if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
         myImage.alt = "github mark";
-        myImage.style.width = "50%";
+        myImage.style.width = "35%";
     } else {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
         myImage.alt = "github logo";
