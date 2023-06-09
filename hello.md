@@ -28,7 +28,7 @@ description: Hello GitHub page
     if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
         myImage.setAttribute("alt", "github mark");
-        myImage.setAttribute("width", "50%");
+        myImage.style.width = "50%";
     } else {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
         myImage.setAttribute("alt", "github logo");
