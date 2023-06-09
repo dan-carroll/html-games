@@ -16,7 +16,7 @@ if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
     myImage.alt = "github logo";
     myImage.style.width = "50%";
 }
-};
+}
 
 let myButton = document.querySelector("button");
 let myHeading = document.getElementById("whoIsIt");
@@ -40,4 +40,4 @@ myHeading.textContent = `${storedName}`;
 
 myButton.onclick = () => {
 setUserName();
-};
+}
