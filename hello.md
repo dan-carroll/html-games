@@ -45,4 +45,15 @@ description: Hello GitHub page
     myHeading.textContent = `${myName}`;
     }
 
+    if (!localStorage.getItem("name")) {
+    setUserName();
+    } else {
+    const storedName = localStorage.getItem("name");
+    myHeading.textContent = `${storedName}`;
+    }
+
+    myButton.onclick = () => {
+    setUserName();
+    };
+
 </script>
