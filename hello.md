@@ -16,7 +16,6 @@ script: true
 </p>
 <p class="text-center">
     <button id="setName">Change user</button>
-    <button onclick="setUserName()">Change user2</button>
 </p>
 <p>
   Learn some JavaScript at <a href="https://developer.mozilla.org/en-US/docs/Learn" alt="mdn web docs">MDN Web Docs</a> -- <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" alt="getting started with the web">Getting started with the web</a> -- <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" alt="javascript basics">Javascript basics</a>. The code for this page was in part from the Javascript Basics page. It is a good start for some interactive code for games.
