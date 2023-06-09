@@ -4,6 +4,7 @@ page: hello
 title: Hello GitHub
 author: Dan Carroll
 description: Hello GitHub page
+script: true
 ---
 
 <h1 class="display-1 fw-bold">Hello</h1>
@@ -19,45 +20,3 @@ description: Hello GitHub page
 <p>
   Learn some JavaScript at <a href="https://developer.mozilla.org/en-US/docs/Learn" alt="mdn web docs">MDN Web Docs</a> -- <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" alt="getting started with the web">Getting started with the web</a> -- <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" alt="javascript basics">Javascript basics</a>. The code for this page was in part from the Javascript Basics page. It is a good start for some interactive code for games.
 </p>
-
-<script>
-    const myImage = document.querySelector("img");
-
-    myImage.onclick = () => {
-    const mySrc = myImage.getAttribute("src");
-    if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
-        myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
-        myImage.alt = "github mark";
-        myImage.style.width = "35%";
-    } else {
-        myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
-        myImage.alt = "github logo";
-        myImage.style.width = "50%";
-    }
-    };
-
-    let myButton = document.querySelector("button");
-    let myHeading = document.getElementById("whoIsIt");
-
-    function setUserName() {
-    const myName = prompt("Please enter your name.");
-    if (!myName) {
-        setUserName();
-    } else {
-        localStorage.setItem("name", myName);
-        myHeading.textContent = `${myName}`;
-    }
-    }
-
-    if (!localStorage.getItem("name")) {
-    setUserName();
-    } else {
-    const storedName = localStorage.getItem("name");
-    myHeading.textContent = `${storedName}`;
-    }
-
-    myButton.onclick = () => {
-    setUserName();
-    };
-
-</script>
