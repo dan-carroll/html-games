@@ -37,6 +37,6 @@ if (!localStorage.getItem('name')) {
     myHeading.innerHTML = storedName;
 }
 
-myButton.onclick = function() {
+myButton.addEventListener("click", function() {
     setUserName();
-}
+});
