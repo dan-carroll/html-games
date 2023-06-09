@@ -28,11 +28,11 @@ description: Hello GitHub page
     if (mySrc === "{{ site.baseurl }}/assets/images/GitHub_Logo.png") {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/github-mark.png");
         myImage.alt = "github mark";
-        myImage.width = 35%;
+        myImage.style.width = "35%";
     } else {
         myImage.setAttribute("src", "{{ site.baseurl }}/assets/images/GitHub_Logo.png");
         myImage.alt = "github logo";
-        myImage.width = 50%;
+        myImage.style.width = "50%";
     }
     };
 
