@@ -3,7 +3,7 @@ Games are a fun way to spend your time. They can be relaxing or exciting, even e
 
 ## A good way to "play" with some HTML JavaScript, and possibly enhance your (my) skill set.
 
-- Learn some [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) from the [MDN Web Docs](https://developer.mozilla.org/en-US/) "[Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)" guide. This article was the basis for the "Hello" entry in the [My Games](#my-games-with-code) section below.
+- Learn some [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) from the [MDN Web Docs](https://developer.mozilla.org/en-US/) "[Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)" guide. This article was the basis for the "[Hello](#hello)" entry in the [My Games](#my-games-with-code) section below.
 - A simple [HTML Game Example](https://www.w3schools.com/graphics/game_intro.asp) from [W3 Schools](https://www.w3schools.com/default.asp).
 - [Game Canvas](https://www.w3schools.com/graphics/game_canvas.asp): Learn to use the HTML Canvas. It is great playing surface for games, but can be used for so much more. What can you do with it?
 - [HTML Game Tutorial](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/games/default.asp.html#gsc.tab=0) from W3 Schools. Learn the basics of making your own games.
