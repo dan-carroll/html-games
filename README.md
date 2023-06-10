@@ -24,4 +24,4 @@ A great way to stoke your imagination for creating games is to explore the games
 
 ## My Games (with code)
 
-- [Hello]("{{ site.baseurl }}/hello/")
+- [Hello](https://dan-carroll.github.io/html-games/hello/)
