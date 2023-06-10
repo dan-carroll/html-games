@@ -11,17 +11,17 @@ Games are a fun way to spend your time. They can be relaxing or exciting, even e
 - [How to build a game with HTML, CSS, and JavaScript](https://blog.logrocket.com/build-a-game-with-html-css-javascript/): Tutorial for building a 2D jump game. Watch the video in the tutorial and follow the link for the code. Slightly different code from what is in the tutorial. Play the [jump game](jump.html).
 - [JavaScript and HTML snake game tutorial](https://learningdaily.dev/javascript-and-html-snake-game-tutorial-build-a-simple-interactive-game-d9549bca1a71): Build a simple, interactive game (ToDo)
 - [How to Create A Snake Game in HTML CSS & JavaScript](https://www.codingnepalweb.com/create-snake-game-htm-css-javascript/): Is this the same tutorial as the one above? (ToDo)
-- [How to Create A Snake Game in HTML CSS & JavaScript](https://www.geeksforgeeks.org/design-hit-the-mouse-game-using-html-css-and-vanilla-javascript/): (ToDo)
+- [Design Hit the Mouse Game using HTML, CSS and Vanilla Javascript](https://www.geeksforgeeks.org/design-hit-the-mouse-game-using-html-css-and-vanilla-javascript/): (ToDo)
 
 
 ## Game collections
 A great way to stoke your imagination for creating games is to explore the games created by others.
 
-- [HTML 5 Games](https://html5games.com/)
-- [Crazy Games - HTML5](https://www.crazygames.com/t/html5)
-- [HTML5 Games](https://html5-games.io/)
-- [HTML Games](https://www.htmlgames.com/)
-- [HTML Games Unblocked](https://sites.google.com/view/html5gamesunblocked)
+- [HTML 5 Games](https://html5games.com/) is the definitive source for free games to be played in your mobile or stationary browser. It is also a high quality showcase of games you can feature on your own website. You can just place any game link for free on your site.
+- [Crazy Games - HTML5](https://www.crazygames.com/t/html5): These games are built using HTML5 to provide fun, challenging and free experience across any genre you can think of.
+- [HTML5 Games](https://html5-games.io/): Play the most wanted HTML5 Games free online! Single player or multiplayer? Choose from thousands of popular games directly and enjoy the fun!
+- [HTML Games](https://www.htmlgames.com/): Play the best free online html and html5 games for mobile, tablet and desktop. Our games work on iOS (iPhone, iPad), Android and PC/Mac. Feel free to publish our html5 games on your site.
+- [HTML Games Unblocked](https://sites.google.com/view/html5gamesunblocked): Play the best html5 games unblocked only on our site, we add only crazy games every day for you and your friends which you can play fully unlocked and spend an awesome time here.
 
 ## My Games (with code)
 
