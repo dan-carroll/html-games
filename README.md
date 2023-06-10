@@ -3,6 +3,7 @@ Games are a fun way to spend your time. They can be relaxing or exciting, even e
 
 ## A good way to "play" with some HTML JavaScript, and possibly enhance your (my) skill set.
 
+- Learn some [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) from the [MDN Web Docs](https://developer.mozilla.org/en-US/) "[Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)" guide. This article was the basis for the "Hello" entry in the [My Games](#my-games-with-code) section below.
 - A simple [HTML Game Example](https://www.w3schools.com/graphics/game_intro.asp) from [W3 Schools](https://www.w3schools.com/default.asp).
 - [Game Canvas](https://www.w3schools.com/graphics/game_canvas.asp): Learn to use the HTML Canvas. It is great playing surface for games, but can be used for so much more. What can you do with it?
 - [HTML Game Tutorial](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/games/default.asp.html#gsc.tab=0) from W3 Schools. Learn the basics of making your own games.
@@ -24,4 +25,4 @@ A great way to stoke your imagination for creating games is to explore the games
 
 ## My Games (with code)
 
-- [Hello](https://dan-carroll.github.io/html-games/hello/)
+- [Hello](https://dan-carroll.github.io/html-games/hello/) <a id="hello"></a> is not a game but an example page showing Javascript interactivity using the [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API). This is a simple, but cool, way to show how to store parameters for a page (game) locally and have the storage be persistent from session to session.
