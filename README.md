@@ -25,6 +25,6 @@ A great way to stoke your imagination for creating games is to explore the games
 
 ## My Games (with code)
 
-- [Hello](/hello.md) <a id="hello"></a> is not a game but an example page showing Javascript interactivity using the [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API). This is a simple, but cool, way to show how to store parameters for a page (game) locally and have the storage be persistent from session to session. See the [Javascript Basics](#a-good-way-to-play-with-some-html-javascript-and-possibly-enhance-your-my-skill-set) link above.
+- [Hello](https://dan-carroll.github.io/html-games/hello/) <a id="hello"></a> is not a game but an example page showing Javascript interactivity using the [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API). This is a simple, but cool, way to show how to store parameters for a page (game) locally and have the storage be persistent from session to session. See the [Javascript Basics](#a-good-way-to-play-with-some-html-javascript-and-possibly-enhance-your-my-skill-set) link above.
   - [hello.md](https://github.com/dan-carroll/html-games/blob/main/hello.md): page code.
   - [hello.js](https://github.com/dan-carroll/html-games/blob/main/assets/js/hello.js): javascript code.
