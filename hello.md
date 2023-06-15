@@ -1,6 +1,7 @@
 ---
 layout: default
 page: hello
+permallink: hello.html
 title: Hello GitHub
 author: Dan Carroll
 description: Hello GitHub page
